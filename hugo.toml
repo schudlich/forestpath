@@ -1,0 +1,8 @@
+baseURL = 'https://forestpathmentalhealth.com/'
+languageCode = 'en-us'
+title = 'Forest Path Mental Health'
+theme = 'hugo-resume-master'
+
+[params]
+
+    typeface = 'Libre Caslon Text'
